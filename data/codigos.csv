@@ -1,0 +1,568 @@
+code;description
+N64.3;Galactorréia não-associada ao parto
+O10;Hipertensão pré-existente complicando a gravidez, o parto e o puerpério
+O10.0;Hipertensão essencial pré-existente complicando a gravidez, o parto e o puerpério
+O10.1;Doença cardíaca hipertensiva pré-existente complicando a gravidez, o parto e o puerpério
+O10.2;Doença renal hipertensiva pré-existente complicando a gravidez, o parto e o puerpério
+O10.3;Doença cardíaca e renal hipertensiva pré-existente complicando a gravidez, o parto e o puerpério
+O10.4;Hipertensão secundária pré-existente complicando a gravidez, o parto e o puerpério
+O10.9;Hipertensão pré-existente não especificada, complicando a gravidez, o parto e o puerpério
+O15.1;Eclâmpsia no trabalho de parto
+O26.6;Transtornos do fígado na gravidez, no parto e no puerpério
+O26.7;Subluxação da sínfise (púbica) na gravidez, parto e puerpério
+O42.0;Ruptura prematura de membranas, com início do trabalho de parto dentro de 24 horas
+O42.1;Ruptura prematura de membranas, com início do trabalho de parto depois das primeiras 24 horas
+O42.2;Ruptura prematura de membranas, com trabalho de parto retardado por terapêutica
+O46;Hemorragia anteparto não classificada em outra parte
+O46.0;Hemorragia anteparto com deficiência de coagulação
+O46.8;Outra forma de hemorragia anteparto
+O46.9;Hemorragia anteparto, não especificada
+O47;Falso trabalho de parto
+O47.0;Falso trabalho de parto antes de se completarem 37 semanas de gestação
+O47.1;Falso trabalho de parto na 37ª semana completa ou depois dela
+O47.9;Falso trabalho de parto, não especificado
+O60;Trabalho de parto pré-termo
+O60.0;Trabalho de parto pré-termo sem parto
+O60.1;Trabalho de parto pré-termo com parto pré-termo
+O60.2;Trabalho de parto pré-termo com parto a termo
+O61;Falha na indução do trabalho de parto
+O61.0;Falha na indução médica do trabalho de parto
+O61.1;Falha na indução instrumental do trabalho de parto
+O61.8;Outras formas de falha na indução do trabalho de parto
+O61.9;Falha na indução do trabalho de parto, não especificada
+O62.3;Trabalho de parto precipitado
+O63;Trabalho de parto prolongado
+O63.2;Parto retardado do segundo gêmeo, do terceiro gêmeo etc
+O63.9;Trabalho de parto prolongado, não especificado
+O64;Obstrução do trabalho de parto devida à má-posição ou má-apresentação do feto
+O64.0;Obstrução do trabalho de parto devida à rotação incompleta do polo cefálico fetal
+O64.1;Obstrução do trabalho de parto devida à apresentação pélvica
+O64.2;Obstrução do trabalho de parto devida à apresentação de face
+O64.3;Obstrução do trabalho de parto devida à apresentação de fronte
+O64.4;Obstrução do trabalho de parto devida à apresentação de ombro
+O64.5;Obstrução do trabalho de parto devida à apresentação complexa
+O64.8;Obstrução do trabalho de parto devida a outras formas de má-apresentação e má-posição
+O64.9;Obstrução do trabalho de parto devida a má-posição ou má-apresentação, não especificadas
+O65;Obstrução do trabalho de parto devida a anormalidade pélvica da mãe
+O65.0;Obstrução do trabalho de parto devida a deformidade pélvica
+O65.1;Obstrução do trabalho de parto devida à contração geral da pelve
+O65.2;Obstrução do trabalho de parto devida à contração do estreito superior
+O65.3;Obstrução do trabalho de parto devida à contração do estreito inferior ou da cavidade mediana
+O65.4;Obstrução do trabalho de parto devida a desproporção feto-pélvica, não especificada
+O65.5;Obstrução do trabalho de parto devida a anormalidade dos órgãos pélvicos maternos
+O65.8;Obstrução do trabalho de parto devida a outras anormalidades pélvicas maternas
+O65.9;Obstrução do trabalho de parto devida a anormalidades pélvicas maternas não especificadas
+O66;Outras formas de obstrução do trabalho de parto
+O66.0;Obstrução do trabalho de parto devido a distócia de ombro
+O66.1;Obstrução do trabalho de parto por colisão de gêmeos
+O66.2;Obstrução do trabalho de parto por feto excepcionalmente grande
+O66.3;Obstrução do trabalho de parto devido a outras anormalidades do feto
+O66.4;Falha de tentativa de trabalho de parto, não especificada
+O66.8;Outras formas de obstrução do trabalho de parto, especificadas
+O66.9;Obstrução do trabalho de parto, não especificado
+O67;Trabalho de parto e parto complicados por hemorragia intraparto não classificados em outra parte
+O67.0;Hemorragia intraparto com deficiência de coagulação
+O67.8;Outras hemorragias intraparto
+O67.9;Hemorragia intraparto não especificada
+O68;Trabalho de parto e parto complicados por sofrimento fetal
+O68.0;Trabalho de parto e parto complicados por anormalidade da freqüência cardíaca fetal
+O68.1;Trabalho de parto e parto complicados por mecônio no líquido amniótico
+O68.2;Trabalho de parto e parto complicados por anormalidade na freqüência cardíaca fetal com mecônio no líquido amniótico
+O68.3;Trabalho de parto e parto complicados por evidências bioquímicas de sofrimento fetal
+O68.8;Trabalho de parto e parto complicados por outras evidências de sofrimento fetal
+O68.9;Trabalho de parto e parto complicados por sofrimento fetal, não especificado
+O69;Trabalho de parto e parto complicados por anormalidade do cordão umbilical
+O69.0;Trabalho de parto e parto complicados por prolapso do cordão
+O69.1;Trabalho de parto e parto complicados por circular de cordão, com compressão
+O69.2;Trabalho de parto e parto complicados por outros enovelamentos do cordão
+O69.3;Trabalho de parto e parto complicados por cordão curto
+O69.4;Trabalho de parto e parto complicados por vasa praevia
+O69.5;Trabalho de parto e parto complicados por lesão vascular do cordão
+O69.8;Trabalho de parto e parto complicados por outras complicações do cordão
+O69.9;Trabalho de parto e parto complicados por complicações do cordão, não especificadas
+O70;Laceração do períneo durante o parto
+O70.0;Laceração de períneo de primeiro grau durante o parto
+O70.1;Laceração de períneo de segundo grau durante o parto
+O70.2;Laceração de períneo de terceiro grau durante o parto
+O70.3;Laceração de períneo de quarto grau durante o parto
+O70.9;Laceração de períneo durante o parto, não especificada
+O71.0;Ruptura do útero antes do início do trabalho de parto
+O71.1;Ruptura do útero durante o trabalho de parto
+O71.2;Inversão do útero pós-parto
+O72;Hemorragia pós-parto
+O72.1;Outras hemorragias do pós-parto imediato
+O72.2;Hemorragias pós-parto, tardias e secundárias
+O72.3;Deficiências de coagulação pós-parto
+O74;Complicações de anestesia durante o trabalho de parto e o parto
+O74.0;Pneumonite aspirativa devida a anestesia durante o trabalho de parto e o parto
+O74.1;Outras complicações pulmonares devidas a anestesia durante o trabalho de parto e no parto
+O74.2;Complicações cardíacas devidas a anestesia durante o trabalho de parto e no parto
+O74.3;Complicações do sistema nervoso central devidas a anestesia durante o trabalho de parto e no parto
+O74.4;Reação tóxica a anestesia local durante trabalho de parto e o parto
+O74.5;Cefaléia pós-anestesia raquidiana e peridural, durante o trabalho de parto e parto
+O74.6;Outras complicações de anestesia raquidiana ou peridural, durante o trabalho de parto e parto
+O74.7;Falha ou dificuldade de entubação durante o trabalho de parto e parto
+O74.8;Outras complicações de anestesia durante o trabalho de parto e parto
+O74.9;Complicações de anestesia durante o trabalho de parto e parto, não especificadas
+O75;Outras complicações do trabalho de parto e do parto não classificadas em outra parte
+O75.0;Sofrimento materno durante o trabalho de parto e o parto
+O75.1;Choque durante ou subseqüente ao trabalho de parto e o parto
+O75.2;Febre durante o trabalho de parto não classificada em outra parte
+O75.3;Outras infecções durante o trabalho de parto
+O75.5;Demora do parto após ruptura artificial das membranas
+O75.6;Demora do parto após ruptura espontânea ou não especificada das membranas
+O75.7;Parto vaginal subseqüente a cesariana anterior
+O75.8;Outras complicações especificadas do trabalho de parto e do parto
+O75.9;Complicações do trabalho de parto e do parto, não especificadas
+O80;Parto único espontâneo
+O80.0;Parto espontâneo cefálico
+O80.1;Parto espontâneo pélvico
+O80.8;Outros tipos de parto único espontâneo
+O80.9;Parto único espontâneo, não especificado
+O81;Parto único por fórceps ou vácuo-extrator
+O81.0;Parto por fórceps baixo
+O81.1;Parto por fórceps da cavidade mediana
+O81.3;Outros tipos de parto por fórceps e os não especificados
+O81.4;Parto por vácuo-extrator
+O81.5;Parto por combinação de fórceps e vácuo-extrator
+O82;Parto único por cesariana
+O82.0;Parto por cesariana eletiva
+O82.1;Parto por cesariana de emergência
+O82.2;Parto por cesariana para histerectomia
+O82.8;Outros tipos de parto único por cesariana
+O82.9;Parto por cesariana, não especificada
+O83;Outros tipos de parto único assistido
+O83.1;Outros tipos de parto pélvico assistido
+O83.2;Outras formas de parto com o auxílio de manipulação
+O83.3;Parto de gravidez intra-abdominal com feto viável
+O83.4;Cirurgia destrutiva para facilitar o parto
+O83.8;Outros tipos especificados de parto único assistido
+O83.9;Parto único assistido, não especificado
+O84;Parto múltiplo
+O84.0;Parto múltiplo, todos espontâneos
+O84.1;Parto múltiplo, todos por fórceps ou vácuo-extrator
+O84.2;Parto múltiplo, todos por cesariana
+O84.8;Outro tipo de parto múltiplo
+O84.9;Parto múltiplo, não especificado
+O86.1;Outras infecções dos órgãos genitais subseqüentes ao parto
+O86.2;Infecção das vias urinárias subseqüentes ao parto
+O86.3;Outras infecções das vias genitourinárias subseqüentes ao parto
+O86.4;Febre de origem desconhecida subseqüente ao parto
+O90.4;Insuficiência renal aguda do pós-parto
+O90.5;Tireoidite do pós-parto
+O91;Infecções mamárias associadas ao parto
+O91.0;Infecção do mamilo associada ao parto
+O91.1;Abscesso da mama associada ao parto
+O91.2;Mastite não purulenta associada ao parto
+O92;Outras afecções da mama e da lactação associadas ao parto
+O92.0;Mamilo retraído associado ao parto
+O92.1;Fissuras do mamilo associadas ao parto
+O92.2;Outras afecções da mama, e as não especificadas, associadas ao parto
+O94;Seqüelas de complicações da gravidez, parto e puerpério
+O96;Morte, por qualquer causa obstétrica, que ocorre mais de 42 dias, mas menos de 1 ano, após o parto
+O98;Doenças infecciosas e parasitárias maternas classificáveis em outra parte mas que compliquem a gravidez, o parto e o puerpério
+O98.0;Tuberculose complicando a gravidez, o parto e o puerpério
+O98.1;Sífilis complicando a gravidez, o parto e o puerpério
+O98.2;Gonorréia complicando a gravidez, o parto e o puerpério
+O98.3;Outras infecções em que a via de transmissão é predominantemente sexual, complicando a gravidez, o parto e o puerpério
+O98.4;Hepatite viral complicando a gravidez, o parto e o puerpério
+O98.5;Outras doenças virais complicando a gravidez, o parto e o puerpério
+O98.6;Doenças causadas por protozoários complicando a gravidez, o parto e o puerpério
+O98.8;Outras doenças infecciosas e parasitárias maternas complicando a gravidez, o parto e o puerpério
+O98.9;Doenças infecciosas e parasitárias maternas, não especificadas, complicando a gravidez, o parto e o puerpério
+O99;Outras doenças da mãe, classificadas em outra parte, mas que complicam a gravidez o parto e o puerpério
+O99.0;Anemia complicando a gravidez, o parto e o puerpério
+O99.1;Outras doenças do sangue e dos órgãos hematopoéticos e alguns transtornos que comprometem o sistema imunológico, complicando a gravidez, o parto e o puerpério
+O99.2;Doenças endócrinas, nutricionais e metabólicas complicando a gravidez, o parto e o puerpério
+O99.3;Transtornos mentais e doenças do sistema nervoso complicando a gravidez, o parto e o puerpério
+O99.4;Doenças do aparelho circulatório complicando a gravidez, o parto e o puerpério
+O99.5;Doenças do aparelho respiratório complicando a gravidez, o parto e o puerpério
+O99.6;Doenças do aparelho digestivo complicando a gravidez, o parto e o puerpério
+O99.7;Doenças da pele e do tecido subcutâneo complicando a gravidez, o parto e o puerpério
+O99.8;Outras doenças e afecções especificadas complicando a gravidez, o parto e o puerpério
+P01.7;Feto e recém-nascido afetados por apresentação anormal antes do trabalho de parto
+P03;Feto e recém-nascido afetados por outras complicações do trabalho de parto e do parto
+P03.0;Feto e recém-nascido afetados por parto e extração pélvicas
+P03.1;Feto e recém-nascido afetados por outras apresentações anormais, má-posições e desproporções durante o trabalho de parto e o parto
+P03.2;Feto e recém-nascido afetados por parto por fórceps
+P03.3;Feto e recém-nascido afetados por parto por vácuo-extrator (ventosa)
+P03.4;Feto e recém-nascido afetados por parto por cesariana
+P03.5;Feto e recém-nascido afetados por parto precipitado
+P03.8;Feto e recém-nascido afetados por outras complicações especificadas do trabalho de parto e do parto
+P03.9;Feto e recém-nascido afetados por complicações não especificadas do trabalho de parto e do parto
+P04.0;Feto e recém-nascido afetados por anestesia e analgesia materna durante a gravidez, trabalho de parto e parto
+P10;Laceração intracraniana e hemorragia devidas a traumatismo de parto
+P10.0;Hemorragia subdural devida a traumatismo de parto
+P10.1;Hemorragia cerebral devida a traumatismo de parto
+P10.2;Hemorragia intraventricular devida a traumatismo de parto
+P10.3;Hemorragia subaracnoídea devida a traumatismo de parto
+P10.4;Ruptura tentorial devida a traumatismo de parto
+P10.8;Outras lacerações e hemorragias intracranianas devidas a traumatismo de parto
+P10.9;Laceração e hemorragia intracranianas não especificadas devidas a traumatismo de parto
+P11;Outros traumatismos de parto do sistema nervoso central
+P11.0;Edema cerebral devido a traumatismo de parto
+P11.1;Outras lesões cerebrais especificadas devidas a traumatismo de parto
+P11.2;Lesão cerebral não especificada devida a traumatismo de parto
+P11.3;Traumatismo de parto do nervo facial
+P11.4;Traumatismo de parto de outros nervos cranianos
+P11.5;Traumatismo de parto da coluna e da medula espinhal
+P11.9;Traumatismo de parto não especificado do sistema nervoso central
+P12;Lesão do couro cabeludo devida a traumatismo de parto
+P12.0;Céfalo-hematoma devido a traumatismo de parto
+P12.1;Chignon devido a traumatismo de parto
+P12.2;Hemorragia subaponeurótica epicraniana devida a traumatismo de parto
+P12.3;Esmagamento do couro cabeludo devido a traumatismo de parto
+P12.8;Outras lesões do couro cabeludo devidas a traumatismo de parto
+P12.9;Lesão não especificada do couro cabeludo devida a traumatismo de parto
+P13;Lesões do esqueleto devidas a traumatismo de parto
+P13.0;Fratura de crânio devida a traumatismo de parto
+P13.1;Outras lesões cranianas devidas a traumatismo de parto
+P13.2;Lesão do fêmur devida a traumatismo de parto
+P13.3;Lesão de outros ossos longos devida a traumatismo de parto
+P13.4;Fratura da clavícula devida a traumatismo de parto
+P13.8;Lesões de outras partes do esqueleto devidas a traumatismo de parto
+P13.9;Lesões não especificadas do esqueleto devidas a traumatismo de parto
+P14.0;Paralisia de Erb devida a traumatismo de parto
+P14.1;Paralisia de Klumpke devida a traumatismo de parto
+P14.2;Paralisia do nervo frênico devida a traumatismo de parto
+P14.3;Outras lesões do plexo braquial devidas a traumatismo de parto
+P14.8;Outras lesões de outras partes do sistema nervoso periférico devidas a traumatismo de parto
+P14.9;Lesão não especificada do sistema nervoso periférico devida a traumatismo de parto
+P15;Outros traumatismos de parto
+P15.0;Lesão do fígado devida a traumatismo de parto
+P15.1;Lesão do baço devida a traumatismo de parto
+P15.2;Lesão do esternomastóide devida a traumatismo de parto
+P15.3;Lesão dos olhos devida a traumatismo de parto
+P15.5;Lesão dos órgãos genitais externos, devida a traumatismo de parto
+P15.6;Necrose de gordura subcutânea devida a traumatismo de parto
+P15.8;Outros traumatismos de parto especificados
+P15.9;Traumatismo de parto não especificado
+P20.0;Hipóxia intra-uterina diagnosticada antes do início do trabalho de parto
+P20.1;Hipóxia intra-uterina diagnosticada durante o trabalho de parto e o parto
+P59.0;Icterícia neonatal associada ao parto prematuro
+Z37;Resultado do parto
+Z39.0;Assistência e exame imediatamente após o parto
+Z39.2;Seguimento pós-parto de rotina
+Z87.5;História pessoal de complicações da gravidez, parto e puerpério
+D62;
+E86; 
+O75.1; 
+R57.1.; 
+O03.1; 
+O03.6; 
+O04.1; 
+O04.6;
+O05.1; 
+O05.6; 
+O06.1; 
+O06.6; 
+O07.1; 
+O07.6;
+O08.1; 
+044.1; 
+O45; 
+O45.8; 
+O45.9; 
+O46; 
+O46.8;
+O46.9; 
+O67; 
+O67.8; 
+O67.9; 
+O69.4; 
+O71.0; 
+O71.1;
+O72; 
+O72.0;
+O72.1;
+O72.2;
+O90.0;
+R57;
+R57.8;
+R57.9;
+T79.4; 
+T81.1; 
+T88.2;
+T88.6;
+A02.1;
+A22.7; 
+A26.7; 
+A32.7; 
+A40; 
+A40.0;
+A40.1; 
+A40.2;
+A40.3; 
+A40.8; 
+A40.9; 
+A41; 
+A41.0;
+A41.1; 
+A41.2;
+A41.3; 
+A41.4; 
+A41.5; 
+A41.8; 
+A41.9;
+A42.7;
+A54.8; 
+B37.7; 
+K35.0; 
+K35.9; 
+K65.0;
+K65.8;
+K65.9; 
+M86.9; 
+N70.0; 
+N70.9; 
+N71.0;
+N73.3;
+N73.5; 
+O03.0; 
+O03.5; 
+O04.0; 
+O04.5; 
+O05.0;
+O05.5; 
+O06.0; 
+O06.5; 
+O07.0;
+O07.5;
+O08.0;
+O08.2; 
+O08.3; 
+O41.1; 
+O75.3; 
+O85; 
+O86; 
+O86.0;
+O86.8; 
+O88.3; 
+R10; 
+T80.2;
+I11.0; 
+I13.0;
+I13.2; 
+I50;
+I50.0; 
+I50.1; 
+I50.9; 
+R57.0;
+I42.0; 
+I42.1; 
+I42.8; 
+I42.9;
+I43.8;
+O90.3;
+I46; 
+I46.0; 
+I46.9;
+O75.4;
+O29; 
+O29.0;
+O29.1; 
+O29.3; 
+O29.5; 
+O29.8; 
+O29.9; 
+O74; 
+O74.2;
+O74.4; 
+O74.6; 
+O74.8; 
+O74.9; 
+O89; 
+O89.1; 
+O89.3;
+O89.5; 
+O89.8; 
+O89.9; 
+T88.3;
+T88.5;
+E05; 
+E05.0;
+E05.1; 
+E05.2; 
+E05.3; 
+E05.4; 
+E05.5; 
+E05.8; 
+E05.9;
+E06.0; 
+E06.2; 
+O08.5;
+J81;
+I26; 
+I26.0; 
+I26.9; 
+O03.2; 
+O03.7; 
+O04.2;
+O04.7; 
+O05.2; 
+O05.7; 
+O06.2; 
+O06.7; 
+O07.2;
+O07.7; 
+O08.2; 
+O88; 
+O88.0; 
+O88.1; 
+O88.2; 
+O88.3;
+O29; 
+O29.3; 
+O29.5;
+O29.6; 
+O29.8; 
+O29.9; 
+O74; 
+O74.0; 
+O74.1; 
+O74.7;
+O89; 
+O89.0; 
+O89.6; 
+T88.4; 
+T88.5;
+R34;
+J80; 
+J96; 
+J96.0; 
+J96.9;
+R09.2;
+O08.4; 
+O90.4;
+E72.2; 
+I12.0; 
+I13.1;
+I13.2; 
+N17; 
+N17.0; 
+N17.1; 
+N17.2; 
+N17.8; 
+N17.9;
+N18.0;
+D65;
+D68; 
+D68.9; 
+D69.4; 
+D69.5;
+D69.6; 
+D82.0; 
+O45.0; 
+O46.0; 
+O67.0; 
+O72.3;
+K72; 
+K72.0; 
+K72.9;
+O26.6; 
+O98.4;
+R17;
+R40;
+R402;
+E15;
+G93.6; 
+I60; 
+I60.0; 
+I60.1; 
+I60.2; 
+I60.3;
+I60.4; 
+I60.5; 
+I60.6; 
+I60.7; 
+I60.9; 
+I61; 
+I61.0; 
+I61.1;
+I61.2; 
+I61.3; 
+I61.4; 
+I61.5; 
+I61.6; 
+I61.8; 
+I61.9; 
+I64;
+I69.1; 
+O22.5;
+O15;
+O15.0;
+O15.1;
+O15.2;
+O15.9;
+G40.0; 
+G40.1; 
+G40.2; 
+G40.3; 
+G40.4;
+G40.5; 
+G40.6; 
+G40.7; 
+G40.8; 
+G40.9;
+O29.2; 
+O74.3; 
+O89.2;
+E10.0; 
+E10.1; 
+E11.0; 
+E11.1; 
+E12.0; 
+E12.1; 
+E13.0;
+E13.1; 
+E14.0; 
+E14.1;
+O450;
+O458;
+O459;
+O720; 
+O730;
+O008; 
+O009; 
+O081;
+O720; 
+O721; 
+O722; 
+O723;
+O710; 
+O711;
+O11; 
+O141;
+O150; 
+O151; 
+O152; 
+O159;
+I674;
+O141;
+O85;
+J81;
+J960; 
+J969;
+R568;
+A418; 
+A419; 
+O085; 
+O083; 
+O751;
+R570; 
+R571; 
+R578; 
+R579; 
+T811;
+D695; 
+D696;
+E054; 
+E055; 
+E058;
+E059;
+Z513;
+O822;
+O296; 
+O747; 
+O896;
+Z489;
