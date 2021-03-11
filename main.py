@@ -16,17 +16,19 @@ if __name__ == '__main__':
 
     # empty dataframe that will contain the results
     full_data = None
+    empty = True
 
     for csv_file in sp_csv_files:
         
         full_file_path = csv_files_path + csv_file
         matches = sc.verify_codes(full_file_path, preg_cid_codes)
         
-        if  not full_data:
+        if empty:
             full_data = matches
+            empty = False
         else:
             full_data.append(matches)
     
-    if full_data:
-        print('Escrevendo dados em um arquivo csv')
-        full_data.to_csv('results/resultados.csv', sep=',')
+    
+    print('Escrevendo dados em um arquivo csv')
+    full_data.to_csv('results/resultados.csv', sep=',')
