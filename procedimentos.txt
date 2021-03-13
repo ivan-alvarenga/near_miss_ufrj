@@ -1,0 +1,5 @@
+Baixar os dados do datasus:
+	Uma dica : estou baixando tudo através do Filezilla ao invés de ir pelo site;
+	O caminho é ftp://ftp.datasus.gov.br/dissemin/publicos/SIHSUS/200801_/Dados/;
+	A dica na verdade é q no Filezilla da pra selecionar vários no esquema do ctrl+clique e shift+clique;
+

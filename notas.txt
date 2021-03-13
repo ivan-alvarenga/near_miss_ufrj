@@ -1,0 +1,32 @@
+Onde pegar os dados do SUS:
+	http://www2.datasus.gov.br/DATASUS/index.php?area=0901&item=1&acao=25
+
+Outra forma de converter de dbc para csv:
+	https://github.com/greatjapa/dbc2csv
+
+Link para a CID-10 associada a partos:
+	http://www.medicinanet.com.br/pesquisa/cid10/nome/parto.htm
+
+Classificação  Brasileira Hierarquizada de Procedimentos Médicos:
+	./documentos_correntes/Tabela-CBHPM-Geral.pdf
+
+Disseminação de Informações do Sistema de Informações Hospitalares (SIH) Dicionário de dados das tabelas RD - AIH e SP (Serviços Profissionais):
+	./documentos_correntes/IT_SIHSUS_1603.pdf
+
+campo 13 - procedimento referente ao ato profissional
+conexão entre AIH e SP é o número da AIH
+verificar quais procedimentos estão lá
+os dados que vão interessar na pesquisa são para mulheres entre 10 e 49 anos - mulheres em idade fértil
+
+
+Reunião 11/03/2021
+
+Base de dados Mr Frankie(SIM, SINASC[liberado de 2 em 2 anos], SIH[liberado mensalmente]);
+Dados poderão ser repetidos;
+Considerar mulheres de 10 a 49 anos ( idade fertil );
+Usar o CID para procedimentos de parto para saber a correlação de mortes dado o procedimento;
+Ver quais hospitais;
+Base de dados de 2009 até 2019;
+Base de 2020 para tentar correlacionar COVID;
+
+
