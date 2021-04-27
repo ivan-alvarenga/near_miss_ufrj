@@ -1,0 +1,458 @@
+influence_type;code;description
+Morte Materna Direta;O000;Gravidez abdominal
+Morte Materna Direta;O001;Gravidez tubária
+Morte Materna Direta;O002;Gravidez ovariana
+Morte Materna Direta;O008;Outras formas de gravidez ectópica
+Morte Materna Direta;O009;Gravidez ectópica, não especificada 
+Morte Materna Direta;O010;Mola hidatiforme clássica
+Morte Materna Direta;O011;Mola hidatiforme incompleta ou parcial
+Morte Materna Direta;O019;Mola hidatiforme não especificada
+Morte Materna Direta;O020;Ovo claro e mola não-hidatiforme
+Morte Materna Direta;O021;Aborto retido
+Morte Materna Direta;O028;Outros produtos anormais da concepção especificados
+Morte Materna Direta;O029;Produto anormal da concepção, não especificado 
+Morte Materna Direta;O030;Aborto espontâneo - incompleto, complicado por infecção do trato genital ou dos órgãos pélvicos
+Morte Materna Direta;O031;Aborto espontâneo - incompleto, complicado por hemorragia excessiva ou tardia
+Morte Materna Direta;O032;Aborto espontâneo - incompleto, complicado por embolia
+Morte Materna Direta;O033;Aborto espontâneo - incompleto, com outras complicações ou com complicações não especificadas
+Morte Materna Direta;O034;Aborto espontâneo - incompleto, sem complicações
+Morte Materna Direta;O035;Aborto espontâneo - completo ou não especificado, complicado por infecções do trato genital ou dos órgãos pélvicos
+Morte Materna Direta;O036;Aborto espontâneo - completo ou não especificado, complicado por hemorragia excessiva ou tardia
+Morte Materna Direta;O037;Aborto espontâneo - completo ou não especificado, complicado por embolia
+Morte Materna Direta;O038;Aborto espontâneo - completo ou não especificado, com outras complicações ou com complicações não especificadas
+Morte Materna Direta;O039;Aborto espontâneo - completo ou não especificado, sem complicações 
+Morte Materna Direta;O040;Aborto por razões médicas e legais - incompleto, complicado por infecção do trato genital ou dos órgãos pélvicos
+Morte Materna Direta;O041;Aborto por razões médicas e legais - incompleto, complicado por hemorragia excessiva ou tardia
+Morte Materna Direta;O042;Aborto por razões médicas e legais - incompleto, complicado por embolia
+Morte Materna Direta;O043;Aborto por razões médicas e legais - incompleto, com outras complicações ou com complicações não especificadas
+Morte Materna Direta;O044;Aborto por razões médicas e legais - incompleto, sem complicações
+Morte Materna Direta;O045;Aborto por razões médicas e legais - completo ou não especificado, complicado por infecções do trato genital ou dos órgãos pélvicos
+Morte Materna Direta;O046;Aborto por razões médicas e legais - completo ou não especificado, complicado por hemorragia excessiva ou tardia
+Morte Materna Direta;O047;Aborto por razões médicas e legais - completo ou não especificado, complicado por embolia
+Morte Materna Direta;O048;Aborto por razões médicas e legais - completo ou não especificado, com outras complicações ou com complicações não especificadas
+Morte Materna Direta;O049;Aborto por razões médicas e legais - completo ou não especificado, sem complicações
+Morte Materna Direta;O050;Outros tipos de aborto - incompleto, complicado por infecção do trato genital ou dos órgãos pélvicos
+Morte Materna Direta;O051;Outros tipos de aborto - incompleto, complicado por hemorragia excessiva ou tardia
+Morte Materna Direta;O052;Outros tipos de aborto - incompleto, complicado por embolia
+Morte Materna Direta;O053;Outros tipos de aborto - incompleto, com outras complicações ou com complicações não especificadas
+Morte Materna Direta;O054;Outros tipos de aborto - incompleto, sem complicações
+Morte Materna Direta;O055;Outros tipos de aborto - completo ou não especificado, complicado por infecções do trato genital ou dos órgãos pélvicos
+Morte Materna Direta;O056;Outros tipos de aborto - completo ou não especificado, complicado por hemorragia excessiva ou tardia
+Morte Materna Direta;O057;Outros tipos de aborto - completo ou não especificado, complicado por embolia
+Morte Materna Direta;O058;Outros tipos de aborto - completo ou não especificado, com outras complicações ou com complicações não especificadas
+Morte Materna Direta;O059;Outros tipos de aborto - completo ou não especificado, sem complicações
+Morte Materna Direta;O060;Aborto não especificado - incompleto, complicado por infecção do trato genital ou dos órgãos pélvicos
+Morte Materna Direta;O061;Aborto não especificado - incompleto, complicado por hemorragia excessiva ou tardia
+Morte Materna Direta;O062;Aborto não especificado - incompleto, complicado por embolia
+Morte Materna Direta;O063;Aborto não especificado - incompleto, com outras complicações ou com complicações não especificadas
+Morte Materna Direta;O064;Aborto não especificado - incompleto, sem complicações
+Morte Materna Direta;O065;Aborto não especificado - completo ou não especificado, complicado por infecções do trato genital ou dos órgãos pélvicos
+Morte Materna Direta;O066;Aborto não especificado - completo ou não especificado, complicado por hemorragia excessiva ou tardia
+Morte Materna Direta;O067;Aborto não especificado - completo ou não especificado, complicado por embolia
+Morte Materna Direta;O068;Aborto não especificado - completo ou não especificado, com outras complicações ou com complicações não especificadas
+Morte Materna Direta;O069;Aborto não especificado - completo ou não especificado, sem complicações
+Morte Materna Direta;O070;Falha de aborto provocado por razões médicas, complicado por infecção do trato genital ou dos órgãos pélvicos
+Morte Materna Direta;O071;Falha de aborto provocado por razões médicas, complicado por hemorragia tardia ou excessiva
+Morte Materna Direta;O072;Falha de aborto provocado por razões médicas, complicado por embolia
+Morte Materna Direta;O073;Falha de aborto provocado por razões médicas, com outras complicações ou com complicações não especificadas
+Morte Materna Direta;O074;Falha de aborto provocado por razões médicas, sem complicações
+Morte Materna Direta;O075;Outras formas, e as não especificadas, de falha na provocação de aborto, complicadas por infecção do trato genital e por infecção dos órgãos pélvicos
+Morte Materna Direta;O076;Outras formas, e as não especificadas, de falha na provocação de aborto, complicadas por hemorragia tardia ou excessiva
+Morte Materna Direta;O077;Outras formas, e as não especificadas, de falha na provocação de aborto, complicadas por embolia
+Morte Materna Direta;O078;Outras formas, e as não especificadas, de falha na provocação de aborto, com outras complicações ou com complicações não especificadas
+Morte Materna Direta;O079;Outras formas, e as não especificadas, de falha na provocação de aborto, sem complicação 
+Morte Materna Direta;O080;Infecção do trato genital e dos órgãos pélvicos conseqüente a aborto e gravidez ectópica e molar
+Morte Materna Direta;O081;Hemorragia tardia ou excessiva conseqüente a aborto e a gravidez ectópica e molar
+Morte Materna Direta;O082;Embolia conseqüente a aborto e a gravidez ectópica e molar
+Morte Materna Direta;O083;Choque conseqüente a aborto e a gravidez ectópica e molar
+Morte Materna Direta;O084;Insuficiência renal conseqüente a aborto e a gravidez ectópica e molar
+Morte Materna Direta;O085;Distúrbios metabólicos conseqüentes a aborto e a gravidez ectópica e molar
+Morte Materna Direta;O086;Lesão a órgãos e a tecidos pélvicos conseqüentes a aborto e a gravidez ectópica e molar
+Morte Materna Direta;O087;Outras complicações venosas conseqüentes a aborto e a gravidez ectópica e molar
+Morte Materna Direta;O088;Outras complicações conseqüentes a aborto e a gravidez ectópica e molar
+Morte Materna Direta;O089;Complicações conseqüentes a aborto e gravidez ectópica e molar, não especificadas 
+Morte Materna Direta;O11;Distúrbio hipertensivo pré-existente com proteinúria superposta
+Morte Materna Direta;O120;Edema gestacional
+Morte Materna Direta;O121;Proteinúria gestacional
+Morte Materna Direta;O122;Edema gestacional com proteinúria 
+Morte Materna Direta;O13;Hipertensão gestacional [induzida pela gravidez] sem proteinúria significativa
+Morte Materna Direta;O140;Pré-eclâmpsia moderada
+Morte Materna Direta;O141;Pré-eclâmpsia grave
+Morte Materna Direta;O149;Pré-eclâmpsia não especificada 
+Morte Materna Direta;O150;Eclâmpsia na gravidez
+Morte Materna Direta;O151;Eclâmpsia no trabalho de parto
+Morte Materna Direta;O152;Eclâmpsia no puerpério
+Morte Materna Direta;O159;Eclâmpsia não especificada quanto ao período 
+Morte Materna Direta;O16;Hipertensão materna não especificada
+Morte Materna Direta;O200;Ameaça de aborto
+Morte Materna Direta;O208;Outras hemorragias do início da gravidez
+Morte Materna Direta;O209;Hemorragia do início da gravidez, não especificada 
+Morte Materna Direta;O210;Hiperêmese gravídica leve
+Morte Materna Direta;O211;Hiperêmese gravídica com distúrbio metabólico
+Morte Materna Direta;O212;Vômitos tardios da gravidez
+Morte Materna Direta;O218;Outras formas de vômitos complicando a gravidez
+Morte Materna Direta;O219;Vômitos da gravidez, não especificados 
+Morte Materna Direta;O220;Varizes dos membros inferiores na gravidez
+Morte Materna Direta;O221;Varizes genitais na gravidez
+Morte Materna Direta;O222;Tromboflebite superficial na gravidez
+Morte Materna Direta;O223;Flebotrombose profunda na gravidez
+Morte Materna Direta;O224;Hemorróidas na gravidez
+Morte Materna Direta;O225;Trombose venosa cerebral na gravidez
+Morte Materna Direta;O228;Outras complicações venosas na gravidez
+Morte Materna Direta;O229;Complicações venosas na gravidez, não especificadas 
+Morte Materna Direta;O230;Infecções do rim na gravidez
+Morte Materna Direta;O231;Infecções da bexiga na gravidez
+Morte Materna Direta;O232;Infecções da uretra na gravidez
+Morte Materna Direta;O233;Infecções de outras partes do trato urinário na gravidez
+Morte Materna Direta;O234;Infecção não especificada do trato urinário na gravidez
+Morte Materna Direta;O235;Infecções do trato genital na gravidez
+Morte Materna Direta;O239;Outras infecções e as não especificadas do trato urinário na gravidez 
+Morte Materna Direta;O244;Diabetes mellitus que surge durante a gravidez
+Morte Materna Direta;O260;Ganho excessivo de peso na gravidez
+Morte Materna Direta;O261;Ganho de peso insuficiente na gravidez
+Morte Materna Direta;O262;Assistência à gravidez por motivo de abortamento habitual
+Morte Materna Direta;O263;Retenção de dispositivo intra-uterino contraceptivo (DIU) na gravidez
+Morte Materna Direta;O264;Herpes gestacional
+Morte Materna Direta;O265;Síndrome da hipotensão materna
+Morte Materna Direta;O266;Transtornos do fígado na gravidez, no parto e no puerpério
+Morte Materna Direta;O267;Subluxação da sínfise (púbica) na gravidez, parto e puerpério
+Morte Materna Direta;O268;Outras afecções especificadas, ligadas a gravidez
+Morte Materna Direta;O269;Afecções ligadas a gravidez, não especificadas 
+Morte Materna Direta;O280;Achados hematológicos anormais do rastreamento [screening] antenatal da mãe
+Morte Materna Direta;O281;Achados bioquímicos anormais do rastreamento [screening] antenatal da mãe
+Morte Materna Direta;O282;Achados citológicos anormais do rastreamento [screening] antenatal da mãe
+Morte Materna Direta;O283;Achados ultrassonográficos anormais do rastreamento [screening] antenatal da mãe
+Morte Materna Direta;O284;Achados radiológicos anormais do rastreamento [screening] antenatal da mãe
+Morte Materna Direta;O285;Achados cromossômicos e genéticos anormais do rastreamento [screening] antenatal da mãe
+Morte Materna Direta;O288;Outros achados anormais do rastreamento [screening] antenatal da mãe
+Morte Materna Direta;O289;Achados anormais do rastreamento [screening] antenatal da mãe, não especificados 
+Morte Materna Direta;O290;Complicações pulmonares de anestesia administrada durante a gravidez
+Morte Materna Direta;O291;Complicações cardíacas de anestesia administrada durante a gravidez
+Morte Materna Direta;O292;Complicações relativas ao sistema nervoso central devidas a anestesia administrada durante a gravidez
+Morte Materna Direta;O293;Reação tóxica causada por anestesia local administrada durante a gravidez
+Morte Materna Direta;O294;Cefaléia causada por anestesia raquidiana ou peridural administradas durante a gravidez
+Morte Materna Direta;O295;Outras complicações de anestesia raquidiana ou peridural administradas durante a gravidez
+Morte Materna Direta;O296;Falha ou dificuldade na entubação durante a gravidez
+Morte Materna Direta;O298;Outras complicações de anestesia durante a gravidez
+Morte Materna Direta;O299;Complicações de anestesia durante a gravidez, não especificadas 
+Morte Materna Direta;O300;Gravidez dupla
+Morte Materna Direta;O301;Gravidez trigemelar
+Morte Materna Direta;O302;Gravidez quadrigemelar
+Morte Materna Direta;O308;Outras gestações múltiplas
+Morte Materna Direta;O309;Gestação múltipla, não especificada 
+Morte Materna Direta;O310;Feto papiráceo
+Morte Materna Direta;O311;Continuação da gravidez após aborto de um ou mais fetos
+Morte Materna Direta;O312;Continuação da gravidez após a morte intra-uterina de um ou mais fetos
+Morte Materna Direta;O318;Outras complicações específicas de gestação múltipla 
+Morte Materna Direta;O320;Assistência prestada à mãe por posição fetal instável
+Morte Materna Direta;O321;Assistência prestada à mãe por apresentação pélvica
+Morte Materna Direta;O322;Assistência prestada à mãe por posição fetal transversa e oblíqua
+Morte Materna Direta;O323;Assistência prestada à mãe por apresentação de face, mento e fronte
+Morte Materna Direta;O324;Assistência prestada à mãe por polo cefálico alto em gestação a termo
+Morte Materna Direta;O325;Assistência prestada à mãe por gestação múltipla com apresentação anormal de um ou mais fetos
+Morte Materna Direta;O326;Assistência prestada à mãe por apresentação composta
+Morte Materna Direta;O328;Assistência prestada à mãe por outras formas de apresentação anormal do feto
+Morte Materna Direta;O329;Assistência prestada à mãe por apresentação anormal do feto, não especificada 
+Morte Materna Direta;O330;Assistência prestada à mãe por uma desproporção devida à deformidade da pelve óssea materna
+Morte Materna Direta;O331;Assistência prestada à mãe por uma desproporção devida à contração geral da pelve
+Morte Materna Direta;O332;Assistência prestada à mãe por uma desproporção devida à contração do estreito superior da pelve
+Morte Materna Direta;O333;Assistência prestada à mãe por uma desproporção devida à contração do estreito inferior da pelve
+Morte Materna Direta;O334;Assistência prestada à mãe por uma desproporção de origem mista, materna e fetal
+Morte Materna Direta;O335;Assistência prestada à mãe por uma desproporção devida a feto excepcionalmente grande
+Morte Materna Direta;O336;Assistência prestada à mãe por uma desproporção devida a feto hidrocefálico
+Morte Materna Direta;O337;Assistência prestada à mãe por uma desproporção devida a outras deformidades fetais
+Morte Materna Direta;O338;Assistência prestada à mãe por uma desproporção de outra origem
+Morte Materna Direta;O339;Assistência prestada à mãe por uma desproporção, não especificada
+Morte Materna Direta;O340;Assistência à mãe por malformação congênita do útero
+Morte Materna Direta;O341;Assistência prestada à mãe por tumor do corpo do útero
+Morte Materna Direta;O342;Assistência prestada à mãe por cicatriz uterina devida a uma cirurgia anterior
+Morte Materna Direta;O343;Assistência prestada à mãe por incompetência cervical
+Morte Materna Direta;O344;Assistência prestada à mãe por outras anormalidades do colo do útero
+Morte Materna Direta;O345;Assistência prestada à mãe por outras anormalidades do útero gravídico
+Morte Materna Direta;O346;Assistência prestada à mãe por anormalidade da vagina
+Morte Materna Direta;O347;Assistência prestada à mãe por anormalidade da vulva e do períneo
+Morte Materna Direta;O348;Assistência prestada à mãe por outras anormalidades dos órgãos pélvicos
+Morte Materna Direta;O349;Assistência prestada à mãe por anormalidade de órgãos pélvicos, não especificada 
+Morte Materna Direta;O350;Assistência prestada à mãe por malformação do sistema nervoso central do feto (suspeitada)
+Morte Materna Direta;O351;Assistência prestada à mãe por anormalidade cromossômica (suspeitada) do feto
+Morte Materna Direta;O352;Assistência prestada à mãe por doença hereditária (suspeitada) do feto
+Morte Materna Direta;O353;Assistência prestada à mãe por lesão fetal (suspeitada) causada por doença viral materna
+Morte Materna Direta;O354;Assistência prestada à mãe por lesão (suspeitada) causada ao feto por alcoolismo materno
+Morte Materna Direta;O355;Assistência prestada à mãe por lesão fetal (suspeitada) causada por drogas
+Morte Materna Direta;O356;Assistência prestada à mãe por lesão fetal (suspeitada) causada por radiação
+Morte Materna Direta;O357;Assistência prestada à mãe por lesão fetal (suspeitada) causada por outros procedimentos médicos
+Morte Materna Direta;O358;Assistência prestada à mãe por outras anormalidades ou lesões fetais (suspeitadas)
+Morte Materna Direta;O359;Assistência prestada à mãe por lesão ou anormalidade fetais (suspeitadas), não especificadas 
+Morte Materna Direta;O360;Assistência prestada à mãe por isoimunização Rh
+Morte Materna Direta;O361;Assistência prestada à mãe por outros tipos de isoimunização
+Morte Materna Direta;O362;Assistência prestada à mãe por hidropsia fetal
+Morte Materna Direta;O363;Assistência prestada à mãe por sinais de hipóxia fetal
+Morte Materna Direta;O364;Assistência prestada à mãe por morte intra-uterina
+Morte Materna Direta;O365;Assistência prestada à mãe por insuficiência de crescimento fetal
+Morte Materna Direta;O366;Assistência prestada à mãe por crescimento fetal excessivo
+Morte Materna Direta;O367;Assistência prestada à mãe por feto viável em gravidez abdominal
+Morte Materna Direta;O368;Assistência prestada à mãe por outros problemas fetais especificados
+Morte Materna Direta;O369;Assistência prestada à mãe por problema fetal não especificado 
+Morte Materna Direta;O40;Polihidrâmnio
+Morte Materna Direta;O410;Oligohidrâmnio
+Morte Materna Direta;O411;Infecção do saco amniótico e das membranas
+Morte Materna Direta;O418;Outros transtornos especificados do líquido amniótico e das membranas
+Morte Materna Direta;O419;Transtornos do líquido amniótico e das membranas não especificados 
+Morte Materna Direta;O420;Ruptura prematura de membranas, com início do trabalho de parto dentro de 24 horas
+Morte Materna Direta;O421;Ruptura prematura de membranas, com início do trabalho de parto depois das primeiras 24 horas
+Morte Materna Direta;O422;Ruptura prematura de membranas, com trabalho de parto retardado por terapêutica
+Morte Materna Direta;O429;Ruptura prematura de membranas, não especificada 
+Morte Materna Direta;O430;Síndromes de transfusão placentária
+Morte Materna Direta;O431;Malformação da placenta
+Morte Materna Direta;O438;Outros transtornos da placenta
+Morte Materna Direta;O439;Transtorno da placenta, não especificado 
+Morte Materna Direta;O440;Placenta prévia especificada como sem hemorragia
+Morte Materna Direta;O441;Placenta prévia com hemorragia 
+Morte Materna Direta;O450;Descolamento prematuro da placenta com deficiência de coagulação
+Morte Materna Direta;O458;Outro descolamento prematuro da placenta
+Morte Materna Direta;O459;Descolamento prematuro da placenta, não especificado 
+Morte Materna Direta;O460;Hemorragia anteparto com deficiência de coagulação
+Morte Materna Direta;O468;Outra forma de hemorragia anteparto
+Morte Materna Direta;O469;Hemorragia anteparto, não especificada 
+Morte Materna Direta;O470;Falso trabalho de parto antes de se completarem 37 semanas de gestação
+Morte Materna Direta;O471;Falso trabalho de parto na 37ª semana completa ou depois dela
+Morte Materna Direta;O479;Falso trabalho de parto, não especificado 
+Morte Materna Direta;O48;Gravidez prolongada
+Morte Materna Direta;O600;Trabalho de parto pré-termo sem parto
+Morte Materna Direta;O601;Trabalho de parto pré-termo com parto pré-termo
+Morte Materna Direta;O602;Trabalho de parto pré-termo com parto a termo 
+Morte Materna Direta;O610;Falha na indução médica do trabalho de parto
+Morte Materna Direta;O611;Falha na indução instrumental do trabalho de parto
+Morte Materna Direta;O618;Outras formas de falha na indução do trabalho de parto
+Morte Materna Direta;O619;Falha na indução do trabalho de parto, não especificada 
+Morte Materna Direta;O620;Contrações iniciais inadequadas
+Morte Materna Direta;O621;Inércia uterina secundária
+Morte Materna Direta;O622;Outras formas de inércia uterina
+Morte Materna Direta;O623;Trabalho de parto precipitado
+Morte Materna Direta;O624;Contrações uterinas hipertônicas, incoordenadas ou prolongadas
+Morte Materna Direta;O628;Outras anormalidades da contração uterina
+Morte Materna Direta;O629;Anormalidades da contração uterina, não especificadas 
+Morte Materna Direta;O630;Prolongamento do primeiro período (dilatação)
+Morte Materna Direta;O631;Prolongamento do segundo período (expulsão)
+Morte Materna Direta;O632;Parto retardado do segundo gêmeo, do terceiro gêmeo etc
+Morte Materna Direta;O639;Trabalho de parto prolongado, não especificado 
+Morte Materna Direta;O640;Obstrução do trabalho de parto devida à rotação incompleta do polo cefálico fetal
+Morte Materna Direta;O641;Obstrução do trabalho de parto devida à apresentação pélvica
+Morte Materna Direta;O642;Obstrução do trabalho de parto devida à apresentação de face
+Morte Materna Direta;O643;Obstrução do trabalho de parto devida à apresentação de fronte
+Morte Materna Direta;O644;Obstrução do trabalho de parto devida à apresentação de ombro
+Morte Materna Direta;O645;Obstrução do trabalho de parto devida à apresentação complexa
+Morte Materna Direta;O648;Obstrução do trabalho de parto devida a outras formas de má-apresentação e má-posição
+Morte Materna Direta;O649;Obstrução do trabalho de parto devida a má-posição ou má-apresentação, não especificadas
+Morte Materna Direta;O650;Obstrução do trabalho de parto devida a deformidade pélvica
+Morte Materna Direta;O651;Obstrução do trabalho de parto devida à contração geral da pelve
+Morte Materna Direta;O652;Obstrução do trabalho de parto devida à contração do estreito superior
+Morte Materna Direta;O653;Obstrução do trabalho de parto devida à contração do estreito inferior ou da cavidade mediana
+Morte Materna Direta;O654;Obstrução do trabalho de parto devida a desproporção feto-pélvica, não especificada
+Morte Materna Direta;O655;Obstrução do trabalho de parto devida a anormalidade dos órgãos pélvicos maternos
+Morte Materna Direta;O658;Obstrução do trabalho de parto devida a outras anormalidades pélvicas maternas
+Morte Materna Direta;O659;Obstrução do trabalho de parto devida a anormalidades pélvicas maternas não especificadas 
+Morte Materna Direta;O660;Obstrução do trabalho de parto devido a distócia de ombro
+Morte Materna Direta;O661;Obstrução do trabalho de parto por colisão de gêmeos
+Morte Materna Direta;O662;Obstrução do trabalho de parto por feto excepcionalmente grande
+Morte Materna Direta;O663;Obstrução do trabalho de parto devido a outras anormalidades do feto
+Morte Materna Direta;O664;Falha de tentativa de trabalho de parto, não especificada
+Morte Materna Direta;O665;Falha de aplicação de fórceps e vácuo-extrator, não especificada
+Morte Materna Direta;O668;Outras formas de obstrução do trabalho de parto, especificadas
+Morte Materna Direta;O669;Obstrução do trabalho de parto, não especificado 
+Morte Materna Direta;O670;Hemorragia intraparto com deficiência de coagulação
+Morte Materna Direta;O678;Outras hemorragias intraparto
+Morte Materna Direta;O679;Hemorragia intraparto não especificada 
+Morte Materna Direta;O680;Trabalho de parto e parto complicados por anormalidade da freqüência cardíaca fetal
+Morte Materna Direta;O681;Trabalho de parto e parto complicados por mecônio no líquido amniótico
+Morte Materna Direta;O682;Trabalho de parto e parto complicados por anormalidade na freqüência cardíaca fetal com mecônio no líquido amniótico
+Morte Materna Direta;O683;Trabalho de parto e parto complicados por evidências bioquímicas de sofrimento fetal
+Morte Materna Direta;O688;Trabalho de parto e parto complicados por outras evidências de sofrimento fetal
+Morte Materna Direta;O689;Trabalho de parto e parto complicados por sofrimento fetal, não especificado 
+Morte Materna Direta;O690;Trabalho de parto e parto complicados por prolapso do cordão
+Morte Materna Direta;O691;Trabalho de parto e parto complicados por circular de cordão, com compressão
+Morte Materna Direta;O692;Trabalho de parto e parto complicados por outros enovelamentos do cordão
+Morte Materna Direta;O693;Trabalho de parto e parto complicados por cordão curto
+Morte Materna Direta;O694;Trabalho de parto e parto complicados por vasa praevia
+Morte Materna Direta;O695;Trabalho de parto e parto complicados por lesão vascular do cordão
+Morte Materna Direta;O698;Trabalho de parto e parto complicados por outras complicações do cordão
+Morte Materna Direta;O699;Trabalho de parto e parto complicados por complicações do cordão, não especificadas 
+Morte Materna Direta;O700;Laceração de períneo de primeiro grau durante o parto
+Morte Materna Direta;O701;Laceração de períneo de segundo grau durante o parto
+Morte Materna Direta;O702;Laceração de períneo de terceiro grau durante o parto
+Morte Materna Direta;O703;Laceração de períneo de quarto grau durante o parto
+Morte Materna Direta;O709;Laceração de períneo durante o parto, não especificada 
+Morte Materna Direta;O710;Ruptura do útero antes do início do trabalho de parto
+Morte Materna Direta;O711;Ruptura do útero durante o trabalho de parto
+Morte Materna Direta;O712;Inversão do útero pós-parto
+Morte Materna Direta;O713;Laceração obstétrica do colo do útero
+Morte Materna Direta;O714;Laceração vaginal alta isolada, de origem obstétrica
+Morte Materna Direta;O715;Outras lesões obstétricas aos órgãos pélvicos
+Morte Materna Direta;O716;Lesão obstétrica das articulações e dos ligamentos pélvicos
+Morte Materna Direta;O717;Hematoma obstétrico da pelve
+Morte Materna Direta;O718;Outros traumatismos obstétricos especificados
+Morte Materna Direta;O719;Traumatismo obstétrico, não especificado
+Morte Materna Direta;O720;Hemorragia do terceiro estágio
+Morte Materna Direta;O721;Outras hemorragias do pós-parto imediato
+Morte Materna Direta;O722;Hemorragias pós-parto, tardias e secundárias
+Morte Materna Direta;O723;Deficiências de coagulação pós-parto 
+Morte Materna Direta;O730;Retenção da placenta sem hemorragia
+Morte Materna Direta;O731;Retenção de partes da placenta ou das membranas, sem hemorragia 
+Morte Materna Direta;O740;Pneumonite aspirativa devida a anestesia durante o trabalho de parto e o parto
+Morte Materna Direta;O741;Outras complicações pulmonares devidas a anestesia durante o trabalho de parto e no parto
+Morte Materna Direta;O742;Complicações cardíacas devidas a anestesia durante o trabalho de parto e no parto
+Morte Materna Direta;O743;Complicações do sistema nervoso central devidas a anestesia durante o trabalho de parto e no parto
+Morte Materna Direta;O744;Reação tóxica a anestesia local durante trabalho de parto e o parto
+Morte Materna Direta;O745;Cefaléia pós-anestesia raquidiana e peridural, durante o trabalho de parto e parto
+Morte Materna Direta;O746;Outras complicações de anestesia raquidiana ou peridural, durante o trabalho de parto e parto
+Morte Materna Direta;O747;Falha ou dificuldade de entubação durante o trabalho de parto e parto
+Morte Materna Direta;O748;Outras complicações de anestesia durante o trabalho de parto e parto
+Morte Materna Direta;O749;Complicações de anestesia durante o trabalho de parto e parto, não especificadas 
+Morte Materna Direta;O750;Sofrimento materno durante o trabalho de parto e o parto
+Morte Materna Direta;O751;Choque durante ou subseqüente ao trabalho de parto e o parto
+Morte Materna Direta;O752;Febre durante o trabalho de parto não classificada em outra parte
+Morte Materna Direta;O753;Outras infecções durante o trabalho de parto
+Morte Materna Direta;O754;Outras complicações de procedimentos ou de cirurgia obstétrica
+Morte Materna Direta;O755;Demora do parto após ruptura artificial das membranas
+Morte Materna Direta;O756;Demora do parto após ruptura espontânea ou não especificada das membranas
+Morte Materna Direta;O757;Parto vaginal subseqüente a cesariana anterior
+Morte Materna Direta;O758;Outras complicações especificadas do trabalho de parto e do parto
+Morte Materna Direta;O759;Complicações do trabalho de parto e do parto, não especificadas 
+Morte Materna Direta;O800;Parto espontâneo cefálico
+Morte Materna Direta;O801;Parto espontâneo pélvico
+Morte Materna Direta;O808;Outros tipos de parto único espontâneo
+Morte Materna Direta;O809;Parto único espontâneo, não especificado
+Morte Materna Direta;O810;Parto por fórceps baixo
+Morte Materna Direta;O811;Parto por fórceps da cavidade mediana
+Morte Materna Direta;O812;Fórceps da cavidade mediana com rotação
+Morte Materna Direta;O813;Outros tipos de parto por fórceps e os não especificados
+Morte Materna Direta;O814;Parto por vácuo-extrator
+Morte Materna Direta;O815;Parto por combinação de fórceps e vácuo-extrator 
+Morte Materna Direta;O820;Parto por cesariana eletiva
+Morte Materna Direta;O821;Parto por cesariana de emergência
+Morte Materna Direta;O822;Parto por cesariana para histerectomia
+Morte Materna Direta;O828;Outros tipos de parto único por cesariana
+Morte Materna Direta;O829;Parto por cesariana, não especificada 
+Morte Materna Direta;O830;Extração pélvica
+Morte Materna Direta;O831;Outros tipos de parto pélvico assistido
+Morte Materna Direta;O832;Outras formas de parto com o auxílio de manipulação
+Morte Materna Direta;O833;Parto de gravidez intra-abdominal com feto viável
+Morte Materna Direta;O834;Cirurgia destrutiva para facilitar o parto
+Morte Materna Direta;O838;Outros tipos especificados de parto único assistido
+Morte Materna Direta;O839;Parto único assistido, não especificado 
+Morte Materna Direta;O840;Parto múltiplo, todos espontâneos
+Morte Materna Direta;O841;Parto múltiplo, todos por fórceps ou vácuo-extrator
+Morte Materna Direta;O842;Parto múltiplo, todos por cesariana
+Morte Materna Direta;O848;Outro tipo de parto múltiplo
+Morte Materna Direta;O849;Parto múltiplo, não especificado;
+Morte Materna Direta;O85;Infecção puerperal
+Morte Materna Direta;O860;Infecção da incisão cirúrgica de origem obstétrica
+Morte Materna Direta;O861;Outras infecções dos órgãos genitais subseqüentes ao parto
+Morte Materna Direta;O862;Infecção das vias urinárias subseqüentes ao parto
+Morte Materna Direta;O863;Outras infecções das vias genitourinárias subseqüentes ao parto
+Morte Materna Direta;O864;Febre de origem desconhecida subseqüente ao parto
+Morte Materna Direta;O868;Outras infecções puerperais especificadas 
+Morte Materna Direta;O870;Tromboflebite superficial no puerpério
+Morte Materna Direta;O871;Tromboflebite profunda no puerpério
+Morte Materna Direta;O872;Hemorróidas no puerpério
+Morte Materna Direta;O873;Trombose venosa cerebral no puerpério
+Morte Materna Direta;O878;Outras complicações venosas no puerpério
+Morte Materna Direta;O879;Complicações venosas no puerpério, não especificadas 
+Morte Materna Direta;O880;Embolia gasosa de origem obstétrica
+Morte Materna Direta;O881;Embolia amniótica
+Morte Materna Direta;O882;Embolia obstétrica por coágulo de sangue
+Morte Materna Direta;O883;Embolia séptica ou piêmica de origem obstétrica
+Morte Materna Direta;O888;Outras embolias de origem obstétrica 
+Morte Materna Direta;O890;Complicações pulmonares da anestesia durante o puerpério
+Morte Materna Direta;O891;Complicações cardíacas devidas a anestesia durante o puerpério
+Morte Materna Direta;O892;Complicações relativas ao sistema nervoso central devidas a anestesia durante o puerpério
+Morte Materna Direta;O893;Reação tóxica a uma anestesia local durante o puerpério
+Morte Materna Direta;O894;Cefaléia provocada por uma anestesia raquidiana ou peridural, durante o puerpério
+Morte Materna Direta;O895;Outras complicações de anestesia raquidiana ou peridural, durante o puerpério
+Morte Materna Direta;O896;Falha na ou dificuldade de entubação, durante o puerpério
+Morte Materna Direta;O898;Outras complicações da anestesia durante o puerpério
+Morte Materna Direta;O899;Complicação devida a anestesia, durante o puerpério, não especificada 
+Morte Materna Direta;O900;Ruptura da incisão de cesariana
+Morte Materna Direta;O901;Ruptura da incisão obstétrica, no períneo
+Morte Materna Direta;O902;Hematoma da incisão obstétrica
+Morte Materna Direta;O903;Cardiomiopatia no puerpério
+Morte Materna Direta;O904;Insuficiência renal aguda do pós-parto
+Morte Materna Direta;O905;Tireoidite do pós-parto
+Morte Materna Direta;O908;Outras complicações do puerpério, não classificadas em outra parte
+Morte Materna Direta;O909;Complicação do puerpério não especificada 
+Morte Materna Direta;O910;Infecção do mamilo associada ao parto
+Morte Materna Direta;O911;Abscesso da mama associada ao parto
+Morte Materna Direta;O912;Mastite não purulenta associada ao parto 
+Morte Materna Direta;O920;Mamilo retraído associado ao parto
+Morte Materna Direta;O921;Fissuras do mamilo associadas ao parto
+Morte Materna Direta;O922;Outras afecções da mama, e as não especificadas, associadas ao parto
+Morte Materna Direta;O923;Agalactia
+Morte Materna Direta;O924;Hipogalactia
+Morte Materna Direta;O925;Suspensão da lactação
+Morte Materna Direta;O926;Galactorréia
+Morte Materna Direta;O927;Outros distúrbios da lactação e os não especificados
+Morte Materna Direta;D392;Neoplasia de comportamento incerto ou desconhecido da placenta
+Morte Materna Direta;E230;Hipopituitarismo
+Morte Materna Direta;F530;Transtornos mentais e comportamentais leves associados ao puerpério não classificados em outra parte
+Morte Materna Direta;F531;Transtornos mentais e comportamentais graves associados ao puerpério não classificados em outra parte
+Morte Materna Direta;F538;Outros transtornos mentais e comportamentais associados ao puerpério não classificados em outra parte
+Morte Materna Direta;F539;Transtorno mental e comportamental associado ao puerpério, não especificado 
+Morte Materna Direta;M830;Osteomalácia puerperal
+Morte Materna Indireta;O100;Hipertensão essencial pré-existente complicando a gravidez, o parto e o puerpério
+Morte Materna Indireta;O101;Doença cardíaca hipertensiva pré-existente complicando a gravidez, o parto e o puerpério
+Morte Materna Indireta;O102;Doença renal hipertensiva pré-existente complicando a gravidez, o parto e o puerpério
+Morte Materna Indireta;O103;Doença cardíaca e renal hipertensiva pré-existente complicando a gravidez, o parto e o puerpério
+Morte Materna Indireta;O104;Hipertensão secundária pré-existente complicando a gravidez, o parto e o puerpério
+Morte Materna Indireta;O109;Hipertensão pré-existente não especificada, complicando a gravidez, o parto e o puerpério 
+Morte Materna Indireta;O240;Diabetes mellitus pré-existente, insulino-dependente
+Morte Materna Indireta;O241;Diabetes mellitus pré-existente, não-insulino-dependente
+Morte Materna Indireta;O242;Diabetes mellitus pré-existente, relacionado com a desnutrição
+Morte Materna Indireta;O243;Diabetes mellitus pré-existente, não especificado 
+Morte Materna Indireta;O249;Diabetes mellitus na gravidez, não especificado
+Morte Materna Indireta;O25;Desnutrição na gravidez
+Morte Materna Indireta;O980;Tuberculose complicando a gravidez, o parto e o puerpério
+Morte Materna Indireta;O981;Sífilis complicando a gravidez, o parto e o puerpério
+Morte Materna Indireta;O982;Gonorréia complicando a gravidez, o parto e o puerpério
+Morte Materna Indireta;O983;Outras infecções em que a via de transmissão é predominantemente sexual, complicando a gravidez, o parto e o puerpério
+Morte Materna Indireta;O984;Hepatite viral complicando a gravidez, o parto e o puerpério
+Morte Materna Indireta;O985;Outras doenças virais complicando a gravidez, o parto e o puerpério
+Morte Materna Indireta;O986;Doenças causadas por protozoários complicando a gravidez, o parto e o puerpério
+Morte Materna Indireta;O988;Outras doenças infecciosas e parasitárias maternas complicando a gravidez, o parto e o puerpério
+Morte Materna Indireta;O989;Doenças infecciosas e parasitárias maternas, não especificadas, complicando a gravidez, o parto e o puerpério 
+Morte Materna Indireta;O990;Anemia complicando a gravidez, o parto e o puerpério
+Morte Materna Indireta;O991;Outras doenças do sangue e dos órgãos hematopoéticos e alguns transtornos que comprometem o sistema imunológico, complicando a gravidez, o parto e o puerpério
+Morte Materna Indireta;O992;Doenças endócrinas, nutricionais e metabólicas complicando a gravidez, o parto e o puerpério
+Morte Materna Indireta;O993;Transtornos mentais e doenças do sistema nervoso complicando a gravidez, o parto e o puerpério
+Morte Materna Indireta;O994;Doenças do aparelho circulatório complicando a gravidez, o parto e o puerpério
+Morte Materna Indireta;O995;Doenças do aparelho respiratório complicando a gravidez, o parto e o puerpério
+Morte Materna Indireta;O996;Doenças do aparelho digestivo complicando a gravidez, o parto e o puerpério
+Morte Materna Indireta;O997;Doenças da pele e do tecido subcutâneo complicando a gravidez, o parto e o puerpério
+Morte Materna Indireta;O998;Outras doenças e afecções especificadas complicando a gravidez, o parto e o puerpério 
+Morte Materna Indireta;A34;Tétano obstétrico
+Morte Materna Indireta;B200;Doença pelo HIV resultando em infecções micobacterianas
+Morte Materna Indireta;B201;Doença pelo HIV resultando em outras infecções bacterianas
+Morte Materna Indireta;B202;Doença pelo HIV resultando em doença citomegálica
+Morte Materna Indireta;B203;Doença pelo HIV resultando em outras infecções virais
+Morte Materna Indireta;B204;Doença pelo HIV resultando em candidíase
+Morte Materna Indireta;B205;Doença pelo HIV resultando em outras micoses
+Morte Materna Indireta;B206;Doença pelo HIV resultando em pneumonia por Pneumocystis jirovecii
+Morte Materna Indireta;B207;Doença pelo HIV resultando em infecções múltiplas
+Morte Materna Indireta;B208;Doença pelo HIV resultando em outras doenças infecciosas e parasitárias
+Morte Materna Indireta;B209;Doença pelo HIV resultando em doença infecciosa ou parasitária não especificada
+Morte Materna Indireta;B210;Doença pelo HIV resultando em sarcoma de Kaposi
+Morte Materna Indireta;B211;Doença pelo HIV resultando em linfoma de Burkitt
+Morte Materna Indireta;B212;Doença pelo HIV resultando em outros tipos de linfoma não-Hodgkin
+Morte Materna Indireta;B213;Doença pelo HIV resultando em outras neoplasias malignas dos tecidos linfático, hematopoético e correlatos
+Morte Materna Indireta;B217;Doença pelo HIV resultando em múltiplas neoplasias malignas
+Morte Materna Indireta;B218;Doença pelo HIV resultando em outras neoplasias malignas
+Morte Materna Indireta;B219;Doença pelo HIV resultando em neoplasia maligna não especificada 
+Morte Materna Indireta;B220;Doença pelo HIV resultando em encefalopatia
+Morte Materna Indireta;B221;Doença pelo HIV resultando em pneumonite intersticial linfática
+Morte Materna Indireta;B222;Doença pelo HIV resultando em síndrome de emaciação
+Morte Materna Indireta;B227;Doença pelo HIV resultando em doenças múltiplas classificadas em outra parte 
+Morte Materna Indireta;B230;Síndrome de infecção aguda pelo HIV
+Morte Materna Indireta;B231;Doença pelo HIV resultando em linfadenopatias generalizadas (persistentes)
+Morte Materna Indireta;B232;Doença pelo HIV resultando em anomalias hematológicas e imunológicas não classificadas em outra parte
+Morte Materna Indireta;B238;Doença pelo HIV resultando em outra afecções especificadas 
+Morte Materna Indireta;B24;Doença pelo vírus da imunodeficiência humana [HIV] não especificada
+Morte Materna Indireta;O95;Morte obstétrica de causa não especificada
