@@ -1,0 +1,345 @@
+{
+"elastic_server" : "http://localhost:32770",
+"kibana_server" : "http://localhost:32771",
+"base":"SP",
+"ano":2015,
+"database":"sinasc_2021",
+"collection":"SP2015",
+"estados":["RJ"],
+"anos":[2016],
+"campos":[
+    {
+      "campo": "APGAR1",
+      "tipo_campo": "char(2)",
+      "tabelas_auxiliares": [
+        "APGAR.CNV"
+      ],
+      "campo_auxiliar_juncao": "codigo",
+      "tipo_valor_auxiliar": "str"
+    },
+    {
+      "campo": "APGAR5",
+      "tipo_campo": "char(2)",
+      "tabelas_auxiliares": [
+        "APGAR.CNV"
+      ],
+      "campo_auxiliar_juncao": "codigo",
+      "tipo_valor_auxiliar": "str"
+    },
+    {
+      "campo": "CODANOMAL",
+      "tipo_campo": "char(20)",
+      "tabelas_auxiliares": [
+        "CID1017.cnv"
+      ],
+      "campo_auxiliar_juncao": "codigo",
+      "tipo_valor_auxiliar": "str"
+    },
+    {
+      "campo": "CODBAINASC",
+      "tipo_campo": "char(8)"
+    },
+    {
+      "campo": "CODBAIRES",
+      "tipo_campo": "char(8)"
+    },
+    {
+      "campo": "CODESTAB",
+      "tipo_campo": "char(7)",
+      "tabelas_auxiliares": [
+        "CNESDN18.DBF"
+      ],
+      "campo_auxiliar_juncao": "CODESTAB",
+      "campo_valor_auxiliar": "DESCESTAB",
+      "tipo_valor_auxiliar": "str"
+    },
+    {
+      "campo": "CODMUNNASC",
+      "tipo_campo": "char(7)",
+      "tabelas_auxiliares": [
+        "MUNICBR.CNV"
+      ],
+      "campo_auxiliar_juncao": "codigo",
+      "tipo_valor_auxiliar": "str"
+    },
+    {
+      "campo": "CODMUNNATU",
+      "tipo_campo": "char(7)",
+      "tabelas_auxiliares": [
+        "MUNICBR.CNV"
+      ],
+      "campo_auxiliar_juncao": "codigo",
+      "tipo_valor_auxiliar": "str"
+    },
+    {
+      "campo": "CODMUNRES",
+      "tipo_campo": "char(7)",
+      "tabelas_auxiliares": [
+        "MUNICBR.CNV"
+      ],
+      "campo_auxiliar_juncao": "codigo",
+      "tipo_valor_auxiliar": "str"
+    },
+    {
+      "campo": "CODPAISRES",
+      "tipo_campo": "str"
+    },
+    {
+      "campo": "CODUFNATU",
+      "tipo_campo": "str"
+    },
+    {
+      "campo": "CONSULTAS",
+      "tipo_campo": "char(1)",
+      "tabelas_auxiliares": [
+        "CONSULT.CNV"
+      ],
+      "campo_auxiliar_juncao": "codigo",
+      "tipo_valor_auxiliar": "str",
+      "tipo_campo_convertido": "str"
+    },
+    {
+      "campo": "DTNASC",
+      "tipo_campo": "char(8)",
+      "formato_campo": "ddmmaaaa",
+      "tipo_campo_convertido": "datetime"
+    },
+    {
+      "campo": "DTNASCMAE",
+      "tipo_campo": "str",
+      "tipo_campo_convertido": "datetime"
+    },
+    {
+      "campo": "DTULTMENST",
+      "tipo_campo": "str",
+      "tipo_campo_convertido": "datetime"
+    },
+    {
+      "campo": "ESCMAE",
+      "tipo_campo": "char(1)",
+      "tabelas_auxiliares": [
+        "INSTRUC.CNV"
+      ],
+      "campo_auxiliar_juncao": "codigo",
+      "tipo_valor_auxiliar": "str"
+    },
+    {
+      "campo": "ESCMAE2010",
+      "tipo_campo": "str"
+    },
+    {
+      "campo": "ESCMAEAGR1",
+      "tipo_campo": "str"
+    },
+    {
+      "campo": "ESTCIVMAE",
+      "tipo_campo": "char(1)",
+      "tabelas_auxiliares": [
+        "ESTCIV.CNV"
+      ],
+      "campo_auxiliar_juncao": "codigo",
+      "tipo_valor_auxiliar": "str"
+    },
+    {
+      "campo": "GESTACAO",
+      "tipo_campo": "char(1)",
+      "tabelas_auxiliares": [
+        "SEMANAS.CNV"
+      ],
+      "campo_auxiliar_juncao": "codigo",
+      "tipo_valor_auxiliar": "str",
+      "tipo_campo_convertido": "str"
+    },
+    {
+      "campo": "GRAVIDEZ",
+      "tipo_campo": "char(1)",
+      "tabelas_auxiliares": [
+        "GRAVIDEZ.CNV"
+      ],
+      "campo_auxiliar_juncao": "codigo",
+      "tipo_valor_auxiliar": "str",
+      "tipo_campo_convertido": "str"
+    },
+    {
+      "campo": "HORANASC",
+      "tipo_campo": "char(4)",
+      "tabelas_auxiliares": [
+        "HORAOBITO.CNV"
+      ],
+      "campo_auxiliar_juncao": "codigo",
+      "tipo_valor_auxiliar": "str"
+    },
+    {
+      "campo": "IDADEMAE",
+      "tipo_campo": "char(2)",
+      "tabelas_auxiliares": [
+        "IDADEMAE.CNV"
+      ],
+      "campo_auxiliar_juncao": "codigo",
+      "tipo_valor_auxiliar": "str"
+    },
+    {
+      "campo": "IDADEPAI",
+      "tipo_campo": "char(2)",
+      "tabelas_auxiliares": [
+        "IDADEMAE.CNV"
+      ],
+      "campo_auxiliar_juncao": "codigo",
+      "tipo_valor_auxiliar": "str"
+    },
+    {
+      "campo": "IDANOMAL",
+      "tipo_campo": "char(1)",
+      "tabelas_auxiliares": [
+        "idanomal.cnv"
+      ],
+      "campo_auxiliar_juncao": "codigo",
+      "tipo_valor_auxiliar": "str"
+    },
+    {
+      "campo": "LOCNASC",
+      "tipo_campo": "char(1)",
+      "tabelas_auxiliares": [
+        "LOCOCOR.CNV"
+      ],
+      "campo_auxiliar_juncao": "codigo",
+      "tipo_valor_auxiliar": "str"
+    },
+    {
+      "campo": "MESPRENAT",
+      "tipo_campo": "str"
+    },
+    {
+      "campo": "NATURALMAE",
+      "tipo_campo": "str"
+    },
+    {
+      "campo": "NUMERODN",
+      "tipo_campo": "char(8)"
+    },
+    {
+      "campo": "PARTO",
+      "tipo_campo": "char(1)",
+      "tabelas_auxiliares": [
+        "PARTO.CNV"
+      ],
+      "campo_auxiliar_juncao": "codigo",
+      "tipo_valor_auxiliar": "str",
+      "tipo_campo_convertido": "str"
+    },
+    {
+      "campo": "PESO",
+      "tipo_campo": "char(4)",
+      "tabelas_auxiliares": [
+        "PESO.CNV"
+      ],
+      "campo_auxiliar_juncao": "codigo",
+      "tipo_valor_auxiliar": "str"
+    },
+    {
+      "campo": "QTDFILMORT",
+      "tipo_campo": "char(2)",
+      "tabelas_auxiliares": [
+        "FILTIDO.CNV"
+      ],
+      "campo_auxiliar_juncao": "codigo",
+      "tipo_valor_auxiliar": "str",
+      "tipo_campo_convertido": "int"
+    },
+    {
+      "campo": "QTDFILVIVO",
+      "tipo_campo": "char(2)",
+      "tabelas_auxiliares": [
+        "FILTIDO.CNV"
+      ],
+      "campo_auxiliar_juncao": "codigo",
+      "tipo_valor_auxiliar": "str",
+      "tipo_campo_convertido": "int"
+    },
+    {
+      "campo": "QTDGESTANT",
+      "tipo_campo": "str"
+    },
+    {
+      "campo": "QTDPARTCES",
+      "tipo_campo": "str"
+    },
+    {
+      "campo": "QTDPARTNOR",
+      "tipo_campo": "str"
+    },
+    {
+      "campo": "RACACOR",
+      "tipo_campo": "char(1)",
+      "tabelas_auxiliares": [
+        "RACA.CNV"
+      ],
+      "campo_auxiliar_juncao": "codigo",
+      "tipo_valor_auxiliar": "str"
+    },
+    {
+      "campo": "RACACORMAE",
+      "tipo_campo": "str",
+      "tabelas_auxiliares": [
+        "RACA.CNV"
+      ],
+      "campo_auxiliar_juncao": "codigo",
+      "tipo_valor_auxiliar": "str"
+    },
+    {
+      "campo": "SEMAGESTAC",
+      "tipo_campo": "str"
+    },
+    {
+      "campo": "SERIESCMAE",
+      "tipo_campo": "str"
+    },
+    {
+      "campo": "SEXO",
+      "tipo_campo": "char(1)",
+      "tabelas_auxiliares": [
+        "SEXO.CNV"
+      ],
+      "campo_auxiliar_juncao": "codigo",
+      "tipo_valor_auxiliar": "str"
+    },
+    {
+      "campo": "STCESPARTO",
+      "tipo_campo": "str"
+    },
+    {
+      "campo": "STDNEPIDEM",
+      "tipo_campo": "str"
+    },
+    {
+      "campo": "STDNNOVA",
+      "tipo_campo": "str",
+      "tabelas_auxiliares": [
+        "DNNOVA.CNV"
+      ],
+      "campo_auxiliar_juncao": "codigo",
+      "tipo_valor_auxiliar": "str"
+    },
+    {
+      "campo": "STTRABPART",
+      "tipo_campo": "str"
+    },
+    {
+      "campo": "TPAPRESENT",
+      "tipo_campo": "str"
+    },
+    {
+      "campo": "TPMETESTIM",
+      "tipo_campo": "str"
+    },
+    {
+      "campo": "TPNASCASSI",
+      "tipo_campo": "str",
+      "tabelas_auxiliares": [
+        "TPASSIST.CNV"
+      ],
+      "campo_auxiliar_juncao": "codigo",
+      "tipo_valor_auxiliar": "str"
+    }
+  ]
+}

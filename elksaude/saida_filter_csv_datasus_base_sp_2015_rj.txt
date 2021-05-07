@@ -1,0 +1,75 @@
+[gxfs@inspiron-gxfs elksaude]$ python filter_csv.py ~/.tmpEtlDATASUS_2015/SPRJ1501.csv 
+Processando arquivo csv -> /home/gxfs/.tmpEtlDATASUS_2015/SPRJ1501.csv
+  Esse arquivo possui 104866 registros CID Principal associados a 'parto e puerpérias'
+  Esse arquivo possui 0 registros CID Secundário associados a 'parto e puerpérias'
+  A quantidade total de registros é igual a 589945
+
+[gxfs@inspiron-gxfs elksaude]$ python filter_csv.py ~/.tmpEtlDATASUS_2015/SPRJ1502.csv 
+Processando arquivo csv -> /home/gxfs/.tmpEtlDATASUS_2015/SPRJ1502.csv
+  Esse arquivo possui 97147 registros CID Principal associados a 'parto e puerpérias'
+  Esse arquivo possui 0 registros CID Secundário associados a 'parto e puerpérias'
+  A quantidade total de registros é igual a 577644
+
+[gxfs@inspiron-gxfs elksaude]$ python filter_csv.py ~/.tmpEtlDATASUS_2015/SPRJ1503.csv 
+Processando arquivo csv -> /home/gxfs/.tmpEtlDATASUS_2015/SPRJ1503.csv
+  Esse arquivo possui 112491 registros CID Principal associados a 'parto e puerpérias'
+  Esse arquivo possui 0 registros CID Secundário associados a 'parto e puerpérias'
+  A quantidade total de registros é igual a 636921
+
+[gxfs@inspiron-gxfs elksaude]$ python filter_csv.py ~/.tmpEtlDATASUS_2015/SPRJ1504.csv 
+Processando arquivo csv -> /home/gxfs/.tmpEtlDATASUS_2015/SPRJ1504.csv
+Erro: This .csv file is not on the pattern!
+  Esse arquivo possui 119111 registros CID Principal associados a 'parto e puerpérias'
+  Esse arquivo possui 0 registros CID Secundário associados a 'parto e puerpérias'
+  A quantidade total de registros é igual a 649886
+
+[gxfs@inspiron-gxfs elksaude]$ python filter_csv.py ~/.tmpEtlDATASUS_2015/SPRJ1505.csv 
+Processando arquivo csv -> /home/gxfs/.tmpEtlDATASUS_2015/SPRJ1505.csv
+Erro: This .csv file is not on the pattern!
+  Esse arquivo possui 109185 registros CID Principal associados a 'parto e puerpérias'
+  Esse arquivo possui 0 registros CID Secundário associados a 'parto e puerpérias'
+  A quantidade total de registros é igual a 652197
+
+[gxfs@inspiron-gxfs elksaude]$ python filter_csv.py ~/.tmpEtlDATASUS_2015/SPRJ1506.csv 
+Processando arquivo csv -> /home/gxfs/.tmpEtlDATASUS_2015/SPRJ1506.csv
+  Esse arquivo possui 113897 registros CID Principal associados a 'parto e puerpérias'
+  Esse arquivo possui 0 registros CID Secundário associados a 'parto e puerpérias'
+  A quantidade total de registros é igual a 664275
+
+[gxfs@inspiron-gxfs elksaude]$ python filter_csv.py ~/.tmpEtlDATASUS_2015/SPRJ1507.csv 
+Processando arquivo csv -> /home/gxfs/.tmpEtlDATASUS_2015/SPRJ1507.csv
+  Esse arquivo possui 116804 registros CID Principal associados a 'parto e puerpérias'
+  Esse arquivo possui 0 registros CID Secundário associados a 'parto e puerpérias'
+  A quantidade total de registros é igual a 699881
+
+[gxfs@inspiron-gxfs elksaude]$ python filter_csv.py ~/.tmpEtlDATASUS_2015/SPRJ1508.csv 
+Processando arquivo csv -> /home/gxfs/.tmpEtlDATASUS_2015/SPRJ1508.csv
+Erro: This .csv file is not on the pattern!
+  Esse arquivo possui 114433 registros CID Principal associados a 'parto e puerpérias'
+  Esse arquivo possui 0 registros CID Secundário associados a 'parto e puerpérias'
+  A quantidade total de registros é igual a 664748
+
+[gxfs@inspiron-gxfs elksaude]$ python filter_csv.py ~/.tmpEtlDATASUS_2015/SPRJ1509.csv 
+Processando arquivo csv -> /home/gxfs/.tmpEtlDATASUS_2015/SPRJ1509.csv
+  Esse arquivo possui 109706 registros CID Principal associados a 'parto e puerpérias'
+  Esse arquivo possui 0 registros CID Secundário associados a 'parto e puerpérias'
+  A quantidade total de registros é igual a 648721
+
+[gxfs@inspiron-gxfs elksaude]$ python filter_csv.py ~/.tmpEtlDATASUS_2015/SPRJ1510.csv 
+Processando arquivo csv -> /home/gxfs/.tmpEtlDATASUS_2015/SPRJ1510.csv
+  Esse arquivo possui 106629 registros CID Principal associados a 'parto e puerpérias'
+  Esse arquivo possui 0 registros CID Secundário associados a 'parto e puerpérias'
+  A quantidade total de registros é igual a 662800
+
+[gxfs@inspiron-gxfs elksaude]$ python filter_csv.py ~/.tmpEtlDATASUS_2015/SPRJ1511.csv 
+Processando arquivo csv -> /home/gxfs/.tmpEtlDATASUS_2015/SPRJ1511.csv
+  Esse arquivo possui 94540 registros CID Principal associados a 'parto e puerpérias'
+  Esse arquivo possui 0 registros CID Secundário associados a 'parto e puerpérias'
+  A quantidade total de registros é igual a 625376
+
+[gxfs@inspiron-gxfs elksaude]$ python filter_csv.py ~/.tmpEtlDATASUS_2015/SPRJ1512.csv 
+Processando arquivo csv -> /home/gxfs/.tmpEtlDATASUS_2015/SPRJ1512.csv
+  Esse arquivo possui 106210 registros CID Principal associados a 'parto e puerpérias'
+  Esse arquivo possui 0 registros CID Secundário associados a 'parto e puerpérias'
+  A quantidade total de registros é igual a 617983
+  

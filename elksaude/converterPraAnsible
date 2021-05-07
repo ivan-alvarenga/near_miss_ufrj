@@ -1,0 +1,8 @@
+sudo yum install python-devel
+sudo yum install python36-devel
+sudo yum install libffi-devel
+sudo yum install libevent-devel
+wget https://bootstrap.pypa.io/get-pip.py
+sudo python3.6 get-pip.py
+
+After that you can use it as python3.6 -m pip or just pip3.6.

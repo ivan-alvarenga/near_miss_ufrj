@@ -1,0 +1,58 @@
+{
+"base":"SIH",
+"ano":2015,
+"database":"projeto",
+"collection":"SIH15",
+"campos":[
+    {
+        "campo":"QT_DIARIAS"
+    },
+    {
+        "campo":"DT_INTER"
+    },
+    {
+        "campo":"SEXO",
+        "campo_auxiliar_juncao":"codigo",
+        "tabelas_auxiliares":[
+            "SEXO.CNV"
+        ]
+    },
+    {
+        "campo":"DIAG_PRINC",
+        "campo_auxiliar_juncao":"codigo",
+        "tabelas_auxiliares":[
+            "CID10_01.CNV","CID10_02.CNV","CID10_03.CNV","CID10_04.CNV","CID10_05.CNV",
+            "CID10_06.CNV","CID10_07.CNV","CID10_08.CNV","CID10_09.CNV","CID10_10.CNV",
+            "CID10_11.CNV","CID10_12.CNV","CID10_13.CNV","CID10_14.CNV","CID10_15.CNV",
+            "CID10_16.CNV","CID10_17.CNV","CID10_18.CNV","CID10_19.CNV","CID10_20.CNV",
+            "CID10_21.CNV","CID10_22.CNV"
+        ]
+    },
+    {
+        "campo":"CNES",
+        "campo_auxiliar_juncao":"CNES",
+        "tabelas_auxiliares":[
+            "TCNESAC.DBF","TCNESAL.DBF","TCNESAM.DBF","TCNESAP.DBF","TCNESBA.DBF",
+            "TCNESBR.DBF","TCNESCE.DBF","TCNESDF.DBF","TCNESES.DBF","TCNESGO.DBF",
+            "TCNESMA.DBF","TCNESMG.DBF","TCNESMS.DBF","TCNESMT.DBF","TCNESPA.DBF",
+            "TCNESPB.DBF","TCNESPE.DBF","TCNESPI.DBF","TCNESPR.DBF","TCNESRJ.DBF",
+            "TCNESRN.DBF","TCNESRO.DBF","TCNESRR.DBF","TCNESRS.DBF","TCNESSC.DBF",
+            "TCNESSE.DBF","TCNESSP.DBF","TCNESTO.DBF"
+        ]
+    },
+    {
+        "campo":"PROC_REA",
+        "campo_auxiliar_juncao":"IP_COD",
+        "tabelas_auxiliares":[
+            "TB_SIGTAP.DBF"
+        ]
+    },
+    {
+        "campo":"DIAGSEC3",
+        "campo_auxiliar_juncao":"CD_COD",
+        "tabelas_auxiliares":[
+            "cid10.dbf"
+        ]
+    }
+]
+}

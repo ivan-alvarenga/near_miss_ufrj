@@ -20,9 +20,9 @@ time_delta = datetime.datetime.now()
 inicio_etl = datetime.datetime.now()
 
 print("Passo 1 de 8:Criando diretórios para arquivos temporários")
-dirDbc="/home/gxfs/Desktop/ufrj/ic_saude/datasets_sus_dbc"
-dirDbf="/home/gxfs/Desktop/ufrj/ic_saude/datasets_sus_dbf"
-dirCsv="/home/gxfs/Desktop/ufrj/ic_saude/datasets_sus_csv"
+dirDbc="/home/gxfs/Desktop/_ufrj/ic_saude/sp_dbc"
+dirDbf="/home/gxfs/Desktop/_ufrj/ic_saude/sp_dbf"
+dirCsv="/home/gxfs/Desktop/_ufrj/ic_saude/sp_csv"
 
 if os.path.exists(dirDbc) == False :
   print("dirDbc not exists")
