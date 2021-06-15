@@ -1,3 +1,5 @@
 .mypy_cache
 .vscode
 src/__pycache__
+results/*
+merged_results/*
