@@ -2,4 +2,4 @@
 .vscode
 src/__pycache__
 Imagens/*
-
+.*
